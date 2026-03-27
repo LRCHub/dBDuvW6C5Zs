@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "だろうな",
+  "base_artist": "Elle",
+  "createdAt": "2026-03-27T05:01:26.241205Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だろうな",
+      "artist": "Elle",
+      "has_synced": false,
+      "path": "select/pl_01_だろうな_Elle.txt"
+    }
+  ]
+}
